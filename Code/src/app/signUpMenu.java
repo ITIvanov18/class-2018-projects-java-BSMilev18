@@ -34,10 +34,12 @@ public class signUpMenu {
 		System.out.println("|       Confirm password:  |");
 		String confirmPassword = sc.nextLine();
 
-		if (confirmPassword != password) {
+		if (!confirmPassword.equals(password)) {
 			System.out.println("Incorrect input! Please try again.");
 			checkConfirmPassword();
-		} else {
+		}
+		else
+		{
 			System.out.println("Password confirmed!");
 		}
 
