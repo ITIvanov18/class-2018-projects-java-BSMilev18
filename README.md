@@ -7,24 +7,27 @@
    <img src = "https://img.shields.io/github/repo-size/codingburgas/class-2018-projects-java-BSMilev18?style=for-the-badge">
    <img src = "https://img.shields.io/github/languages/top/codingburgas/class-2018-projects-java-BSMilev18?style=for-the-badge">
    <img src = "https://img.shields.io/github/last-commit/codingburgas/class-2018-projects-java-BSMilev18?style=for-the-badge">
-	@@ -15,40 +14,60 @@
+  </p>
+  
+  <br>
+
    ## 📥 How to deploy
    To deploy our project on your machine you need to ... <br>
    Now follow these steps:
    <br>
-
+   
    1. Clone the repo. This can be done by: 
    <pre>git clone https://github.com/codingburgas/class-2018-projects-java-BSMilev18 </pre>
-
+   
    2. Download & Install needed technologies/resources
    <pre> JDBC Driver(v 9.4): https://go.microsoft.com/fwlink/?linkid=2168495 </pre>
-
+   
    3. Execute the program's database script through SSMS
    <pre> ... </pre>
-
+    
    4. Upload the JDBC Driver into the Library Classpath of the program through Eclipse IDE
    <pre> ... </pre>
-
+    
    5. Specify the SQL database's URL with the JDBC Driver in an initial String query
    <pre> ... </pre>
 
@@ -67,3 +70,4 @@
 <br>
 Give a ⭐️ if you like our project!
 <hr>
+
