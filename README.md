@@ -1,7 +1,7 @@
 <h1 align="center"> Class 2018 - Final project repos for the JAVA division </h1>
 
 ![banner](https://i.imgur.com/VyWBEtZ.png)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 <p align = "center">
    <img src = "https://img.shields.io/github/languages/count/codingburgas/class-2018-projects-java-BSMilev18?style=for-the-badge">
    <img src = "https://img.shields.io/github/repo-size/codingburgas/class-2018-projects-java-BSMilev18?style=for-the-badge">
